@@ -25,6 +25,12 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/ChankitSaini/GenerateStringSession)](https://replit.com/@Wahyu2131/String-Okaeri-Userbot)
 
+## Heroku Deployment <img src="./etc/Kenpurple.gif" width="40px">
+The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Wahyu213/Okaeri-Music)
+
+
 ## Commands 🛠
 
 - `/play <song name>` - play song you requested
