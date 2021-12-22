@@ -6,3 +6,7 @@
 <p align="center">
     <br><b>Okaeri-Music is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
 </p>
+
+### 🧪 Get `SESSION_NAME` from below:
+
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Wahyu2131/String-Okaeri-Userbot#main.py) ``Pyrogram``
