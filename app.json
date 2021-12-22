@@ -16,15 +16,18 @@
   "env": {
     "SESSION_NAME": {
       "description": "Di repo Okaeri-Music",
-      "required": true
+      "required": true,
+      "Value":""
     },
     "BOT_TOKEN": {
       "description": "bot token dari @BotFather",
-      "required": true
+      "required": true,
+      "Value":""
     },
     "BOT_USERNAME": {
       "description": "bot username kamu dengan @",
-      "required": true
+      "required": true,
+      "Value":""
     },
     "BOT_NAME": {
       "description": "Your MusicPlayer Bot Name.",
@@ -34,7 +37,7 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": ""
+      "value": "OkaeriUserbot"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
