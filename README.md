@@ -1,5 +1,5 @@
 <p align="center">
-    <br><b>🗄️ PROJECT ARCHIVED, NO LONGER MAINTAINED !!</b><br>
+    <br><b>🗄️ PROJECT MUSIC,THIS IS MAINTAINED</b><br>
 </p>
 
 <p align="center"><a href="https://t.me/OkaeriUserbot"><img src="https://telegra.ph/file/a8f1941705f4de7bb4a0c.jpg"></a></p>
