@@ -27,6 +27,6 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/DaisyXMusic)
 
-### 🧪 Get `SESSION_NAME` from below:
+Get pyrogram (p)  `SESSION` from here:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Wahyu2131/String-Okaeri-Userbot#main.py) ``Pyrogram``
+[![Run on Repl.it](https://repl.it/badge/github/ChankitSaini/GenerateStringSession)](https://replit.com/@Wahyu2131/String-Okaeri-Userbot)
