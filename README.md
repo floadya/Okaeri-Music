@@ -70,9 +70,9 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 - `/blocklist` - show the list of all people who's blocked for using your bot
 
 ### Special Credits 💖
-- [zen](https://github.com/Wahyu213): Dev/Owner
-- [Laky](https://github.com/Laky-64): PyTgCalls
-- [Dan](https://github.com/delivrance): Pyrogram
+- [zen](https://github.com/Wahyu213)  `Dev/Owner `
+- [Laky](https://github.com/Laky-64) PyTgCalls
+- [Dan](https://github.com/delivrance) Pyrogram
 - [Original Repo](https://github.com/callsmusic/callsmusic) CallsMusic
 - [Veez Music Bot](https://t.me/veezmusicbot) Our Music Bot
 - [RojSerBest](https://github.com/rojserbest) CallsMusic Developer
